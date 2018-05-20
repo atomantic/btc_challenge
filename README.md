@@ -1,11 +1,20 @@
 # BTC Challenge
 
+## Let's Crack This Code!
+But really, I'm hanging out with my kid today--so I'm donating my efforts and tools to the community.
+If you find this useful, you can send tips here:
+
+- BTC: 3NEXPQyiB1M8nGqHizWrFPWodFXBkKRUcn
+- ETH: 0x5CBC8132e7bb0A5532D3aA8c96Eb18F3bb4F7a48
+- Token Friendly ETH: 0xa0a31ee59682638cd2c0295fd47c40f8117c33eb
+- LTC: MMoNAyPAQpxvmzvkKBA1hP5GjZA4EpDEBr
+- BCH: qp86ykx7psftpny88ytttdxlzgsdslavyud2xcm0cf
+
+> (I'll take anything \\[^_^]/
+
 This repo contains a playground for executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/ 
 
 [Click to Launch Notebook on MyBinder](https://mybinder.org/v2/gh/atomantic/btc_challenge/master)
-
-
-**Prerequisite:** Comfortable using the command line and optionally (helpful, but not required) a basic understanding of programming in [Python](https://www.python.org/)
 
 ## Getting Started (Locally)
 
